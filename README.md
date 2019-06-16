@@ -1,24 +1,10 @@
 # README
+This is practicing project to build simple bolg system by using scaffold in Rails. -2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Version: This is practicing project by using scaffold in Rails.
 
-Things you may want to cover:
+- Configuration: this is simple blog system, it includes basic features of user and post by using scaffold in Rails.
 
-* Ruby version
+- Database creation: this project has two database table: users and posts.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Database initialization: use PostgreSQL
